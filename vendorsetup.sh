@@ -18,3 +18,4 @@ add_lunch_combo rootbox_quincyatt-userdebug
 add_lunch_combo rootbox_toro-userdebug
 add_lunch_combo rootbox_t0lte-userdebug
 add_lunch_combo rootbox_t0lteatt-userdebug
+add_lunch_combo rootbox_pyramid-userdebug
